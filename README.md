@@ -1,6 +1,13 @@
 Hi there 👋 I'm Pablo and i'm a Full Stack web dev. Welcome to my github page!
 
 
+
+Projects:
+
+
+<img src="https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif" width="600">
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Pablongallardo&show_icons=true&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablongallardo&layout=compact"/>
@@ -21,10 +28,6 @@ Contact me:
 <br>
 <br>
 
-Projects:
-
-
-<img src="https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif" width="600">
 
 My tech stack: 
 
