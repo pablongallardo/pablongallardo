@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi there 👋 I'm Pablo and i'm a Full Stack web dev. Welcome to my github page!</h1>
+<h1 align="center">Hi there 👋 I'm Pablo and Welcome to my github page!</h1>
 
-
+## :sassy_man:  About me
+- :school: i'm a Full Stack web dev. 
 
 
 Projects:
@@ -18,18 +19,8 @@ Projects:
 
 
 
-Contact me: 
 
-
-<a href="https://www.linkedin.com/in/pablo-gallardo">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-
-<br>
-<br>
-
-
-My tech stack: 
+## 🛠️ My tech stack: 
 
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -53,5 +44,14 @@ My tech stack:
 </br>
 
 
+## 🙋‍♂️ Contact me: 
+
+
+<a href="https://www.linkedin.com/in/pablo-gallardo">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+
+<br>
+<br>
 
 
