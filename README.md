@@ -47,7 +47,7 @@ Projects:
 ## 🙋‍♂️ Contact me: 
 
 
-<a href="https://www.linkedin.com/in/pablo-gallardo-b541241bb)">
+<a href="https://www.linkedin.com/in/pablo-gallardo-b541241bb/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
