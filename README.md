@@ -15,7 +15,7 @@ Projects:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablongallardo&layout=compact&theme=dark"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Pablongallardo&theme=dark&theme=minimal">
+<img src="https://activity-graph.herokuapp.com/graph?username=Pablongallardo&theme=minimal">
 
 
 
